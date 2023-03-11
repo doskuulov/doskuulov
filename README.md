@@ -1,34 +1,185 @@
-<div align="center">
-# Doskulov Mirbek
 
-**`Frontend Developer`**
 
-My name is Mirbek and I'm developer.
----
+<h1 align="left">Hi, there! I'm <em>Doskulov Mirbek</em></h1>
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+### :man_technologist: About Me:
+- 👋 Hi, I’m Doskulov Mirbek
+- 👀 I’m interested in web development
 
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-</div>
-  
-### Backend  
-<div align="center">  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-</div>
+<br>
+
+<h2 align="left" id="toutestcool-stack">Tech stack</h2>
+
+>  General
+ 
+<table width='100%'>
+  <tr>
+    <td align="center" width="96">
+      <a href="#toutestcool-stack">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#toutestcool-stack">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript"         />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#toutestcool-stack" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
+      </a>
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <a href="#toutestcool-stack" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96"> 
+      <a href="#toutestcool-stack" >
+        <img src="https://brandeps.com/icon-download/Y/Yarn-icon-vector-03.svg" width="48" height="48" alt="yarn" />
+      </a>
+      <br>Yarn
+    </td>
+    <td align="center" width="96"> 
+      <a href="#toutestcool-stack" >
+        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="48" height="48" alt="npm" />
+      </a>
+      <br>Npm
+    </td>
+     <td align="center" width="96"> 
+      <a href="#toutestcool-stack" >
+        <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" width="48" height="48" alt="github" />
+      </a>
+      <br>Github
+    </td>
+  </tr> 
+</table>
+
+>  Frontend
+ 
+<table width='100%'>
+  <tr>
+    <td align="center" width="96">
+      <a href="#toutestcool-stack">
+        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
+      </a>
+      <br>React JS
+    </td>
+          <td align="center" width="96"> 
+      <a href="#toutestcool-stack" >
+        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
+      </a>
+      <br>Next JS
+    </td>
+      <td align="center" width="96"> 
+      <a href="#toutestcool-stack" >
+        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
+      </a>
+      <br>Redux
+    </td>
+     <td align="center" width="96"> 
+      <a href="#toutestcool-stack" >
+        <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
+      </a>
+      <br>Vue.js
+    </td>
+     <td align="center" width="96">
+      <a href="#toutestcool-stack">
+        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
+      </a>
+      <br>MUI
+    </td>
+   <td align="center" width="96">
+      <a href="#toutestcool-stack">
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+     <td align="center" width="96"> 
+      <a href="#toutestcool-stack" >
+        <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" width="48" height="48" alt="css3" />
+      </a>
+      <br>Css3
+    </td>
+  </tr> 
+    <tr>
+    <td align="center" width="96">
+      <a href="#toutestcool-stack">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" width="48" height="48" alt="Html5" />
+      </a>
+      <br>Html5
+    </td>
+    <td align="center" width="96"> 
+      <a href="#toutestcool-stack" >
+        <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="48" height="48" alt="Webpack" />
+      </a>
+      <br>Webpack
+    </td>
+    <td align="center" width="96"> 
+      <a href="#toutestcool-stack" >
+        <img src="https://vitejs.dev/logo.svg" width="48" height="48" alt="Vite" />
+      </a>
+      <br>Vite
+    </td> 
+    <td align="center" width="96">
+      <a href="#toutestcool-stack">
+        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="48" height="48" alt="Sass" />
+      </a>
+      <br>Sass
+    </td>
+   <td align="center" width="96">
+      <a href="#toutestcool-stack">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
+      </a>
+      <br>Tailwind
+    </td>
+  </tr> 
+</table>
+
+
+
+ 
+
+
+>  Backend
+ 
+<table width='100%'>
+  <tr>
+    <td align="center" width="96"> 
+      <a href="#toutestcool-stack" >
+        <img src="https://brandeps.com/icon-download/N/Nestjs-icon-vector-01.svg" width="48" height="48" alt="Nestjs" />
+      </a>
+      <br>Nest JS
+    </td>
+    <td align="center" width="96"> 
+      <a href="#toutestcool-stack" >
+        <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="48" height="48" alt="Node JS" />
+      </a>
+      <br>Node JS
+    </td>
+    <td align="center" width="96"> 
+      <a href="#toutestcool-stack" >
+        <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+      </a>
+      <br>express
+    </td>
+    <td align="center" width="96">
+      <a href="#toutestcool-stack" >
+        <img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="Mongo DB" />
+      </a>
+      <br>MongoDB
+    </td>
+     <td align="center" width="96"> 
+      <a href="#toutestcool-stack" >
+        <img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" width="48" height="48" alt="Firebase" />
+      </a>
+      <br>Firebase
+    </td>
+  </tr> 
+</table>
+
+<br>
