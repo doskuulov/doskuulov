@@ -1,9 +1,6 @@
 
 
 <h1 align="left">Hi, there! I'm <em>Doskulov Mirbek</em></h1>
-
-### :man_technologist: About Me:
-- 👋 Hi, I’m Doskulov Mirbek
 - 👀 I’m interested in web development
 
 <br>
