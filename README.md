@@ -80,9 +80,9 @@
     </td>
      <td align="center" width="96"> 
       <a href="#toutestcool-stack" >
-        <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
+        <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://i.ibb.co/sJv6YN6/photo-2023-03-11-17-04-30.jpg" alt="Vue.js" height="50" /></a>  
       </a>
-      <br>Vue.js
+      <br>Vue Js
     </td>
      <td align="center" width="96">
       <a href="#toutestcool-stack">
