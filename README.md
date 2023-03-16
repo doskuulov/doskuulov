@@ -1,7 +1,7 @@
 
 
 <h1 align="left">Hi, there! I'm <em>Doskulov Mirbek</em></h1>
-- 👀 I’m interested in web development
+- 👀 I'm fond of exploring the world of development.
 
 <br>
 
@@ -146,12 +146,6 @@
  
 <table width='100%'>
   <tr>
-    <td align="center" width="96"> 
-      <a href="#toutestcool-stack" >
-        <img src="https://brandeps.com/icon-download/N/Nestjs-icon-vector-01.svg" width="48" height="48" alt="Nestjs" />
-      </a>
-      <br>Nest JS
-    </td>
     <td align="center" width="96"> 
       <a href="#toutestcool-stack" >
         <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="48" height="48" alt="Node JS" />
